@@ -2,8 +2,6 @@
 To describe the steps of solving the coupons dataset required with the Jupyter notebook 'https://github.com/oscarzapi/assignment5_1/blob/main/Assignment_5_1.ipynb': 
 
 Main Findings are:
-
-we can detect that:
 - **Destination**: Big differences in accepted coupons where the category is 'No place urgent' .
 - **Passanger**: 'Alone' category shows most occurrences with values up to 3500, with more customers accepting the coupons in this category. The other groups show values of up to 1000 responses and accepted offers are higher than rejected ones.
 - **Weather**: 'Sunny' category shows most occurrences with values up to 6000, with more customers accepting the coupons in this category. The other groups show values of up to 1000 responses and rejected offers are higher than accepted ones.
